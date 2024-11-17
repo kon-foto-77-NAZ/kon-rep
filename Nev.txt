@@ -1,2 +1,5 @@
 cd C:\Users\Константин\Git
 git status
+git add .
+git commit -m "second commit"
+git push
